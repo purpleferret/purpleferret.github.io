@@ -70,6 +70,14 @@ header h2 {
   color: #666;
 }
 
+.logo {
+    display: block;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    height: 170px;
+}
+
 #downloads .btn {
   display: inline-block;
   text-align: center;
